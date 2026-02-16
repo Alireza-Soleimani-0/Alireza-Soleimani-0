@@ -23,6 +23,8 @@
 
 </div>
 
+> 💡 **Note:** Percentages above 50% automatically appear in green!
+
 ---
 
 ## 🏭 Industrial Partners
