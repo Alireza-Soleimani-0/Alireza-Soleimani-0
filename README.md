@@ -1,66 +1,33 @@
-<h1 align="center">سلام 👋، من علیرضا سلیمانی هستم</h1>
-<h3 align="center">⚡ مهندس برق در حوزه برق صنعتی | طراحی، اجرا و برنامه‌ریزی سیستم‌های کنترل</h3>
+# سلام 👋، من علیرضا سلیمانی هستم
 
-<!-- گیف خوش‌آمدگویی مرتبط با مهندسی برق -->
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Electric_source_and_load_animation_2.gif" width="400" alt="انیمیشن جهت جریان در مدار الکتریکی"/>
-</div>
+من یک **مهندس برق در حوزه برق صنعتی** هستم که در زمینه طراحی، اجرا و برنامه‌ریزی سیستم‌های کنترل فعالیت می‌کنم.  
+در حال تحصیل در دانشگاه مازندران هستم و تخصص من در برنامه‌نویسی PLC زیمنس، طراحی تابلوهای برق، مدارهای فرمان و قدرت، و سیستم‌های اتوماسیون صنعتی است.
 
-<!-- بخش شبکه‌های اجتماعی - فقط آیکون بدون متن -->
-<div align="center" style="margin: 40px 0;">
-  <a href="https://www.linkedin.com/in/alirezasoleimani-">
-    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="margin: 10px;" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/alirezasoleimani">
-    <img src="https://img.shields.io/badge/-100000?style=for-the-badge&logo=github&logoColor=white" height="40" style="margin: 10px;" alt="GitHub">
-  </a>
-  <a href="https://stackoverflow.com/users/23951445">
-    <img src="https://img.shields.io/badge/-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="40" style="margin: 10px;" alt="Stack Overflow">
-  </a>
-  <a href="https://t.me/ASnet01">
-    <img src="https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="40" style="margin: 10px;" alt="Telegram">
-  </a>
-</div>
+---
 
-<!-- بخش معرفی کوتاه -->
-<div align="center">
-  <p style="font-size: 1.2em; line-height: 1.8;">
-    🎓 دانشجوی مهندسی برق، دانشگاه مازندران<br>
-    ⚙️ متخصص در طراحی، اجرا و برنامه‌ریزی سیستم‌های برق صنعتی<br>
-    🔧 مسلط به طراحی تابلوهای برق، مدارهای فرمان و قدرت، و حفاظت الکتریکی<br>
-    📊 برنامه‌نویس PLC زیمنس و آشنا با HMI، SCADA و درایوهای صنعتی<br>
-    💬 آماده مشاوره و همکاری در پروژه‌های اتوماسیون صنعتی و برق کارخانجات<br>
-    📫 راه‌های ارتباطی: شبکه‌های اجتماعی بالا<br>
-    ⚡ هدف: ارتقاء بهره‌وری و ایمنی در سیستم‌های صنعتی با راه‌حل‌های نوین کنترلی
-  </p>
-</div>
+## ⚡ مهارت‌ها
 
-<!-- خط جداکننده -->
-<hr>
+- **PLC:** زیمنس (S7-1200، S7-1500)، Ladder Logic، Structured Text
+- **برق صنعتی:** طراحی تابلوهای برق، مدارهای فرمان و قدرت، حفاظت الکتریکی، توزیع قدرت، کنترل موتور
+- **نرم‌افزارها:** AutoCAD Electrical، EPLAN
+- **برنامه‌نویسی:** C++، Python، MATLAB، Arduino
 
-<!-- بخش مهارت‌های تخصصی -->
-<h3 align="center">🛠️ مهارت‌ها و تکنولوژی‌ها</h3>
+---
 
-<div align="center" style="margin: 30px 0;">
-  
-  <!-- نشان‌های (Badges) از Shields.io با فونت خوانا -->
-  
-  <img src="https://img.shields.io/badge/PLC-Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white" width="140" height="35" style="margin: 5px;" alt="PLC"/>
-  <img src="https://img.shields.io/badge/SCADA-WinCC-FF6C37?style=for-the-badge&logo=siemens&logoColor=white" width="140" height="35" style="margin: 5px;" alt="SCADA"/>
-  <img src="https://img.shields.io/badge/HMI-Industrial-FF6C37?style=for-the-badge&logo=siemens&logoColor=white" width="140" height="35" style="margin: 5px;" alt="HMI"/>
-  <img src="https://img.shields.io/badge/AutoCAD_Electrical-red?style=for-the-badge&logo=autodesk&logoColor=white" width="180" height="35" style="margin: 5px;" alt="AutoCAD Electrical"/>
-  <img src="https://img.shields.io/badge/EPLAN-طراحی_سیستم‌های_برق-16213E?style=for-the-badge&logoColor=white" width="200" height="35" style="margin: 5px;" alt="EPLAN"/>
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="100" height="35" style="margin: 5px;" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="120" height="35" style="margin: 5px;" alt="Python"/>
-  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white" width="120" height="35" style="margin: 5px;" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" width="120" height="35" style="margin: 5px;" alt="Arduino"/>
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Ladder_Logic-Programming-009999?style=for-the-badge&logo=siemens&logoColor=white" width="180" height="35" style="margin: 5px;" alt="Ladder Logic"/>
-  <img src="https://img.shields.io/badge/توزیع_قدرت-FFAA00?style=for-the-badge&logo=electric&logoColor=black" width="150" height="35" style="margin: 5px;" alt="Power Distribution"/>
-  <img src="https://img.shields.io/badge/کنترل_موتور-FF6C37?style=for-the-badge&logo=siemens&logoColor=white" width="150" height="35" style="margin: 5px;" alt="Motor Control"/>
-</div>
+## 📱 شبکه‌های اجتماعی
+
+- [LinkedIn](https://www.linkedin.com/in/alirezasoleimani-)
+- [GitHub](https://github.com/alirezasoleimani)
+- [Stack Overflow](https://stackoverflow.com/users/23951445)
+- [Telegram](https://t.me/ASnet01)
+
+---
+
+## 📧 ارتباط با من
+
+اگر سوالی دارید یا پیشنهاد همکاری، می‌توانید از طریق شبکه‌های اجتماعی بالا یا ایمیل با من در ارتباط باشید:  
+**alireza.soleimani@gmail.com**
+
+---
+
+*از اینکه به پروفایل من سر زدید، خوشحالم!* ⚡
