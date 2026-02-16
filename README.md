@@ -13,15 +13,17 @@
 
 | Skill | Proficiency |
 |:-----:|:-----------:|
-| **Siemens PLC (S7-1200/1500)** | ![](https://geps.dev/progress/63?dangerColor=8B0000&warningColor=FF8C00&successColor=2E8B57) 63% |
-| **Ladder Logic / Structured Text** | ![](https://geps.dev/progress/60?dangerColor=8B0000&warningColor=FF8C00&successColor=2E8B57) 60% |
-| **AutoCAD Electrical** | ![](https://geps.dev/progress/56?dangerColor=8B0000&warningColor=FF8C00&successColor=2E8B57) 56% |
-| **EPLAN** | ![](https://geps.dev/progress/49?dangerColor=8B0000&warningColor=FF8C00&successColor=2E8B57) 49% |
-| **SCADA / HMI** | ![](https://geps.dev/progress/53?dangerColor=8B0000&warningColor=FF8C00&successColor=2E8B57) 53% |
-| **Python / C++** | ![](https://geps.dev/progress/46?dangerColor=8B0000&warningColor=FF8C00&successColor=2E8B57) 46% |
-| **MATLAB** | ![](https://geps.dev/progress/42?dangerColor=8B0000&warningColor=FF8C00&successColor=2E8B57) 42% |
+| **Siemens PLC (S7-1200/1500)** | ![](https://geps.dev/progress/90) 90% |
+| **Ladder Logic / Structured Text** | ![](https://geps.dev/progress/85) 85% |
+| **AutoCAD Electrical** | ![](https://geps.dev/progress/80) 80% |
+| **EPLAN** | ![](https://geps.dev/progress/70) 70% |
+| **SCADA / HMI** | ![](https://geps.dev/progress/75) 75% |
+| **Python / C++** | ![](https://geps.dev/progress/65) 65% |
+| **MATLAB** | ![](https://geps.dev/progress/60) 60% |
 
 </div>
+
+> 💡 *Progress bars update automatically — just change the number in the URL* [citation:5]
 
 ---
 
@@ -40,19 +42,39 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/alirezasoleimani-">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=alirezasoleimani-&show_icons=true&theme=dark&bg_color=0d1117&title_color=0077B5&icon_color=0077B5&hide_border=true" />
+  </a>
+  <a href="https://github.com/alirezasoleimani-">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezasoleimani-&layout=compact&theme=dark&bg_color=0d1117&title_color=0077B5&hide_border=true" />
+  </a>
+</div>
+
+---
+
 ## 🔌 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alirezasoleimani-">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="35">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" width="120">
   </a>
-  <a href="https://github.com/alirezasoleimani">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100" height="35">
+  <a href="https://github.com/alirezasoleimani-">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" width="110">
   </a>
   <a href="https://stackoverflow.com/users/23951445">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="140" height="35">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=F58025" width="150">
   </a>
   <a href="https://t.me/ASnet01">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="120" height="35">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" width="120">
   </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20industrial%20automation%2C%20precision%20is%20not%20just%20a%20goal%2C%20it's%20the%20standard." width="600">
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=alirezasoleimani-&style=flat-square&color=0077B5&label=PROFILE+VISITS" width="200">
 </div>
