@@ -13,17 +13,17 @@
 
 | Skill | Proficiency |
 |:-----:|:-----------:|
-| **Siemens PLC (S7-1200/1500)** | ![](https://geps.dev/progress/90) 90% |
-| **Ladder Logic / Structured Text** | ![](https://geps.dev/progress/85) 85% |
-| **AutoCAD Electrical** | ![](https://geps.dev/progress/80) 80% |
-| **EPLAN** | ![](https://geps.dev/progress/70) 70% |
-| **SCADA / HMI** | ![](https://geps.dev/progress/75) 75% |
-| **Python / C++** | ![](https://geps.dev/progress/65) 65% |
-| **MATLAB** | ![](https://geps.dev/progress/60) 60% |
+| **Siemens PLC (S7-1200/1500)** | ![](https://geps.dev/progress/72) 72% |
+| **Ladder Logic / Structured Text** | ![](https://geps.dev/progress/68) 68% |
+| **AutoCAD Electrical** | ![](https://geps.dev/progress/64) 64% |
+| **EPLAN** | ![](https://geps.dev/progress/56) 56% |
+| **SCADA / HMI** | ![](https://geps.dev/progress/60) 60% |
+| **Python / C++** | ![](https://geps.dev/progress/52) 52% |
+| **MATLAB** | ![](https://geps.dev/progress/48) 48% |
 
 </div>
 
-> 💡 *Progress bars update automatically — just change the number in the URL* [citation:5]
+> 💡 *Progress bars update automatically — just change the number in the URL*
 
 ---
 
