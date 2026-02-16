@@ -13,13 +13,13 @@
 
 | Skill | Proficiency |
 |:-----:|:-----------:|
-| **Siemens PLC (S7-1200/1500)** | ![](https://geps.dev/progress/63?dangerColor=8B0000&warningColor=FF8C00&successColor=2E8B57) 63% |
-| **Ladder Logic / Structured Text** | ![](https://geps.dev/progress/60?dangerColor=8B0000&warningColor=FF8C00&successColor=2E8B57) 60% |
-| **AutoCAD Electrical** | ![](https://geps.dev/progress/56?dangerColor=8B0000&warningColor=FF8C00&successColor=2E8B57) 56% |
-| **EPLAN** | ![](https://geps.dev/progress/49?dangerColor=8B0000&warningColor=FF8C00&successColor=2E8B57) 49% |
-| **SCADA / HMI** | ![](https://geps.dev/progress/53?dangerColor=8B0000&warningColor=FF8C00&successColor=2E8B57) 53% |
-| **Python / C++** | ![](https://geps.dev/progress/46?dangerColor=8B0000&warningColor=FF8C00&successColor=2E8B57) 46% |
-| **MATLAB** | ![](https://geps.dev/progress/42?dangerColor=8B0000&warningColor=FF8C00&successColor=2E8B57) 42% |
+| **Siemens PLC (S7-1200/1500)** | ![](https://geps.dev/progress/90) 90% |
+| **Ladder Logic / Structured Text** | ![](https://geps.dev/progress/85) 85% |
+| **AutoCAD Electrical** | ![](https://geps.dev/progress/80) 80% |
+| **EPLAN** | ![](https://geps.dev/progress/70) 70% |
+| **SCADA / HMI** | ![](https://geps.dev/progress/75) 75% |
+| **Python / C++** | ![](https://geps.dev/progress/65) 65% |
+| **MATLAB** | ![](https://geps.dev/progress/60) 60% |
 
 </div>
 
