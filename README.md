@@ -1,87 +1,80 @@
 # Alireza Soleimani
-AlirezaSoleimani · Electrical Engineer
+**Electrical Engineer | Industrial Automation | PLC Programmer**
 
-Electrical Engineer specializing in Industrial Electricity | Control Systems Designer & Programmer
-
----
-
-## Achievements
-
-- **Achievements**
-  - ⚡ Industrial Electricity | PLC | Automation
-
-- **Specialties**
-  - Electrical Panel Design
-  - Siemens PLC Programming
-  - Industrial Drawing
-
-- **Organizations**
-  - University of Mazandaran
+🎓 Electrical Engineering Student at University of Mazandaran  
+⚡ Specialist in industrial electrical systems design & implementation  
+🔧 Experienced in electrical panels, power circuits, and motor control
 
 ---
 
-**AlirezaSoleimani / README.md**
+## 🎯 Skill Proficiency
 
-- Role: Electrical Engineering Student
-- University: University of Mazandaran
-- How to reach me:
-  - Telegram: @ASnet01
-  - LinkedIn: Alireza Soleimani
-  - Stack Overflow: Alireza
+<div align="center">
 
-Specialist in design, implementation and programming of industrial electrical systems. Experienced in electrical panel design, command and power circuits, and electrical protection. Siemens PLC programmer familiar with HMI, SCADA and industrial drives. Ready for consultation and collaboration in industrial automation and factory electrical projects.
+| Skill | Proficiency |
+|:-----:|:-----------:|
+| **Siemens PLC (S7-1200/1500)** | ![](https://geps.dev/progress/90) 90% |
+| **Ladder Logic / Structured Text** | ![](https://geps.dev/progress/85) 85% |
+| **AutoCAD Electrical** | ![](https://geps.dev/progress/80) 80% |
+| **EPLAN** | ![](https://geps.dev/progress/70) 70% |
+| **SCADA / HMI** | ![](https://geps.dev/progress/75) 75% |
+| **Python / C++** | ![](https://geps.dev/progress/65) 65% |
+| **MATLAB** | ![](https://geps.dev/progress/60) 60% |
 
----
+</div>
 
-## Alireza Soleimani's GitHub Stats
-
-- Total Stars Earned: 70
-- Total Commits (2024): 1.5k
-- Total PRs: 327
-- Total Issues: 345
-- Contributed to (last year): 39
+> 💡 *Progress bars update automatically — just change the number in the URL* [citation:5]
 
 ---
 
-## Skills
+## 🏭 Industrial Partners
 
-| I have experience with | I'm learning | In the memory banks |
-|---|---|---|
-| Siemens PLC | EPLAN | AutoCAD Electrical |
-| Ladder Logic | SCADA | TIA Portal |
-| Command Circuits | HMI | WinCC |
-| Python | C++ | MATLAB |
+<div align="center">
 
----
+| **Automation Giants** | **Engineering Software** | **Programming** |
+|:---------------------:|:------------------------:|:---------------:|
+| [![Siemens](https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com) | [![AutoCAD](https://img.shields.io/badge/AutoCAD_Electrical-FF0000?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com) | [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org) |
+| [![ABB](https://img.shields.io/badge/ABB-FF0000?style=for-the-badge&logo=abb&logoColor=white)](https://new.abb.com) | [![EPLAN](https://img.shields.io/badge/EPLAN-16213E?style=for-the-badge&logoColor=white)](https://www.eplanusa.com) | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) |
+| [![Schneider](https://img.shields.io/badge/Schneider_Electric-3DCD58?style=for-the-badge&logo=schneider-electric&logoColor=white)](https://www.se.com) | [![TIA Portal](https://img.shields.io/badge/TIA_Portal-009999?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/tia) | [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://mathworks.com) |
+| [![Rockwell](https://img.shields.io/badge/Rockwell_Automation-FF0000?style=for-the-badge&logo=rockwell-automation&logoColor=white)](https://www.rockwellautomation.com) | [![WinCC](https://img.shields.io/badge/WinCC-FF6C37?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/wincc) | [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://arduino.cc) |
 
-## IDE/Software I like
-
-- TIA PORTAL
-- AutoCAD ELECTRICAL
-- EPLAN
-- MATLAB
+</div>
 
 ---
 
-## Blog posts
+## 📊 GitHub Analytics
 
-- AlirezaSoleimani.ir started in 2024!
-- That's about 1 new post every month.
-- Latest post: "Introduction to Siemens PLC Programming" - 2 weeks ago
-- I try to share useful content about industrial electricity and automation. I'd love your feedback in the comments!
-
----
-
-## Published posts
-
-- 2024
+<div align="center">
+  <a href="https://github.com/alirezasoleimani-">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=alirezasoleimani-&show_icons=true&theme=dark&bg_color=0d1117&title_color=0077B5&icon_color=0077B5&hide_border=true" />
+  </a>
+  <a href="https://github.com/alirezasoleimani-">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezasoleimani-&layout=compact&theme=dark&bg_color=0d1117&title_color=0077B5&hide_border=true" />
+  </a>
+</div>
 
 ---
 
-Click to expand a full list of posts
+## 🔌 Connect with Me
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/alirezasoleimani-">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" width="120">
+  </a>
+  <a href="https://github.com/alirezasoleimani-">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" width="110">
+  </a>
+  <a href="https://stackoverflow.com/users/23951445">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=F58025" width="150">
+  </a>
+  <a href="https://t.me/ASnet01">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" width="120">
+  </a>
+</div>
 
-## My down time
-
-Photography of industrial electrical panels | Reading new articles on automation | Learning new technologies
+<div align="center">
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20industrial%20automation%2C%20precision%20is%20not%20just%20a%20goal%2C%20it's%20the%20standard." width="600">
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=alirezasoleimani-&style=flat-square&color=0077B5&label=PROFILE+VISITS" width="200">
+</div>
