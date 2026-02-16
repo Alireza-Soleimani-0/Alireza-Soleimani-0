@@ -24,13 +24,7 @@
 
 </div>
 
-> 🎨 **Color Guide:**
-> - 🟢 **Green:** 60%+ (Expert)
-> - 🔵 **Blue:** 40-60% (Intermediate)
-> - 🟠 **Orange:** 20-40% (Learning)
-> - 🟡 **Yellow:** Below 20% (Beginner)
 
----
 
 ## 🏭 **Industrial Partners**
 
