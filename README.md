@@ -13,19 +13,25 @@
 
 | Skill | Proficiency |
 |:-----:|:-----------:|
-| **Ladder Logic / Structured Text** | ![](https://geps.dev/progress/80) 80% |
-| **AutoCAD Electrical** | ![](https://geps.dev/progress/75) 75% |
-| **EPLAN** | ![](https://geps.dev/progress/70)70% |
-| **SCADA / HMI** | ![](https://geps.dev/progress/60) 60% |
-| **MATLAB** | ![](https://geps.dev/progress/50) 50% |
-| **Python / C++** | ![](https://geps.dev/progress/40) 40% |
-| **Siemens PLC (S7-1200/1500)** | ![](https://geps.dev/progress/30) 30% |
+| **Siemens PLC** | ![](https://geps.dev/progress/72?color=2E8B57) 72% |
+| **Ladder Logic** | ![](https://geps.dev/progress/68?color=2E8B57) 68% |
+| **AutoCAD Electrical** | ![](https://geps.dev/progress/64?color=2E8B57) 64% |
+| **EPLAN** | ![](https://geps.dev/progress/56?color=0077B5) 56% |
+| **SCADA / HMI** | ![](https://geps.dev/progress/60?color=2E8B57) 60% |
+| **Python / C++** | ![](https://geps.dev/progress/52?color=0077B5) 52% |
+| **MATLAB** | ![](https://geps.dev/progress/48?color=0077B5) 48% |
 
 </div>
 
+> 🎨 **Color Guide:**
+> - 🟢 **Green:** 60%+ (Expert)
+> - 🔵 **Blue:** 40-60% (Intermediate)
+> - 🟠 **Orange:** 20-40% (Learning)
+> - 🟡 **Yellow:** Below 20% (Beginner)
+
 ---
 
-## 🏭 Industrial Partners
+## 🏭 **Industrial Partners**
 
 <div align="center">
 
@@ -40,19 +46,56 @@
 
 ---
 
-## 🔌 Connect with Me
+## 🔧 **Technical Skills**
+
+<div align="center">
+
+| **I have experience with** | **I'm currently learning** | **In my toolkit** |
+|:--------------------------:|:---------------------------:|:-----------------:|
+| ![C++](https://skillicons.dev/icons?i=cpp) | ![Python](https://skillicons.dev/icons?i=python) | ![MATLAB](https://skillicons.dev/icons?i=matlab) |
+| ![Arduino](https://skillicons.dev/icons?i=arduino) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Git](https://skillicons.dev/icons?i=git) |
+| ![AutoCAD](https://skillicons.dev/icons?i=autocad) | ![EPLAN](https://skillicons.dev/icons?i=eplan) | ![SCADA](https://skillicons.dev/icons?i=scada) |
+
+</div>
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+
+| **Total Stars Earned** | **Total Commits (2024)** | **Total PRs** |
+|:----------------------:|:------------------------:|:-------------:|
+| 70 | 1.5k | 327 |
+
+| **Total Issues** | **Contributed to (last year)** |
+|:----------------:|:------------------------------:|
+| 345 | 39 |
+
+</div>
+
+---
+
+## 🔌 **Connect with Me**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alirezasoleimani-">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="35">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" width="120">
   </a>
-  <a href="https://github.com/alirezasoleimani">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100" height="35">
+  <a href="https://github.com/alirezasoleimani-">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" width="110">
   </a>
   <a href="https://stackoverflow.com/users/23951445">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="140" height="35">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=F58025" width="150">
   </a>
   <a href="https://t.me/ASnet01">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="120" height="35">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" width="120">
   </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20industrial%20automation%2C%20precision%20is%20not%20just%20a%20goal%2C%20it's%20the%20standard." width="600">
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=alirezasoleimani-&style=flat-square&color=0077B5&label=PROFILE+VISITS" width="200">
 </div>
