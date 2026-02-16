@@ -13,17 +13,21 @@
 
 | Skill | Proficiency |
 |:-----:|:-----------:|
-| **Siemens PLC (S7-1200/1500)** | ![](https://geps.dev/progress/72) 72% |
-| **Ladder Logic / Structured Text** | ![](https://geps.dev/progress/68) 68% |
-| **AutoCAD Electrical** | ![](https://geps.dev/progress/64) 64% |
-| **EPLAN** | ![](https://geps.dev/progress/56) 56% |
-| **SCADA / HMI** | ![](https://geps.dev/progress/60) 60% |
-| **Python / C++** | ![](https://geps.dev/progress/52) 52% |
-| **MATLAB** | ![](https://geps.dev/progress/48) 48% |
+| **Siemens PLC (S7-1200/1500)** | ![](https://geps.dev/progress/72?color=2E8B57) 72% |
+| **Ladder Logic / Structured Text** | ![](https://geps.dev/progress/68?color=2E8B57) 68% |
+| **AutoCAD Electrical** | ![](https://geps.dev/progress/64?color=2E8B57) 64% |
+| **EPLAN** | ![](https://geps.dev/progress/56?color=0077B5) 56% |
+| **SCADA / HMI** | ![](https://geps.dev/progress/60?color=2E8B57) 60% |
+| **Python / C++** | ![](https://geps.dev/progress/52?color=0077B5) 52% |
+| **MATLAB** | ![](https://geps.dev/progress/48?color=0077B5) 48% |
 
 </div>
 
-> 💡 *Progress bars update automatically — just change the number in the URL*
+> 🎨 **Color Guide:**
+> - 🟢 **Green:** 60%+ (Expert)
+> - 🔵 **Blue:** 40-60% (Intermediate)
+> - 🟠 **Orange:** 20-40% (Learning)
+> - 🟡 **Yellow:** Below 20% (Beginner)
 
 ---
 
