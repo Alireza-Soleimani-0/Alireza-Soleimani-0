@@ -23,8 +23,6 @@
 
 </div>
 
-> 💡 *Progress bars update automatically — just change the number in the URL* [citation:5]
-
 ---
 
 ## 🏭 Industrial Partners
@@ -70,11 +68,4 @@
   <a href="https://t.me/ASnet01">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" width="120">
   </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20industrial%20automation%2C%20precision%20is%20not%20just%20a%20goal%2C%20it's%20the%20standard." width="600">
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=alirezasoleimani-&style=flat-square&color=0077B5&label=PROFILE+VISITS" width="200">
 </div>
