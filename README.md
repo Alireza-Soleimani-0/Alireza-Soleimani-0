@@ -40,32 +40,19 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/alirezasoleimani-">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=alirezasoleimani-&show_icons=true&theme=dark&bg_color=0d1117&title_color=0077B5&icon_color=0077B5&hide_border=true" />
-  </a>
-  <a href="https://github.com/alirezasoleimani-">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezasoleimani-&layout=compact&theme=dark&bg_color=0d1117&title_color=0077B5&hide_border=true" />
-  </a>
-</div>
-
----
-
 ## 🔌 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alirezasoleimani-">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" width="120">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="35">
   </a>
-  <a href="https://github.com/alirezasoleimani-">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" width="110">
+  <a href="https://github.com/alirezasoleimani">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100" height="35">
   </a>
   <a href="https://stackoverflow.com/users/23951445">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=F58025" width="150">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="140" height="35">
   </a>
   <a href="https://t.me/ASnet01">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" width="120">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="120" height="35">
   </a>
 </div>
