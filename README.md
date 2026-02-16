@@ -1,122 +1,99 @@
-<h1 align="center">سلام 👋، من [نام شما] هستم</h1>
-<h3 align="center">مهندس برق | علاقه‌مند به سیستم‌های قدرت، ماشین‌های الکتریکی و اینترنت اشیا</h3>
+<h1 align="center">سلام 👋، من علیرضا سلیمانی هستم</h1>
+<h3 align="center">⚡ مهندس برق در حوزه برق صنعتی | طراحی، اجرا و برنامه‌ریزی سیستم‌های کنترل</h3>
 
-<!-- گیف خوش‌آمدگویی -->
+<!-- گیف خوش‌آمدگویی مرتبط با مهندسی برق - جهت جریان در منبع تغذیه و مصرف‌کننده -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Electric_source_and_load_animation_2.gif" width="400" alt="انیمیشن جهت جریان در مدار الکتریکی"/>
 </div>
 
-<!-- بخش شبکه‌های اجتماعی -->
+<!-- بخش شبکه‌های اجتماعی (فقط لینکدین، گیت‌هاب، استک‌اورفلو، تلگرام) -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/اینجا-آیدی-لینکدین-خود-را-وارد-کنید/">
+  <a href="https://www.linkedin.com/in/alirezasoleimani-">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/اینجا-آیدی-توییتر-خود-را-وارد-کنید">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://github.com/alirezasoleimani">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:ایمیل‌شما@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="https://stackoverflow.com/users/23951445">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
   </a>
-  <a href="لینک-به-وبسایت-یا-بلاگ-شخصی">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
-  </a>
-  <a href="https://t.me/اینجا-آیدی-تلگرام-خود-را-وارد-کنید">
+  <a href="https://t.me/ASnet01">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </div>
 
 <br>
 
-<!-- بخش معرفی کوتاه -->
+<!-- بخش معرفی کوتاه - معرفی به عنوان مهندس برق صنعتی -->
 <div align="center">
   <p>
-    🎓 دانش‌آموخته مهندسی برق از دانشگاه [نام دانشگاه]<br>
-    🔭 در حال کار روی پروژه‌های سیستم‌های قدرت و اینترنت اشیا<br>
-    🌱 در حال یادگیری عمیق‌تر در زمینه ماشین‌های الکتریکی و درایوها<br>
-    💬 می‌توانید درباره MATLAB، Python، و سیستم‌های قدرت از من بپرسید<br>
-    📫 راه‌های ارتباطی: ایمیل و شبکه‌های اجتماعی بالا<br>
-    ⚡ علاقه‌مندی‌ها: رباتیک، اتوماسیون صنعتی، و فناوری‌های سبز
+    🎓 دانشجوی مهندسی برق، دانشگاه مازندران<br>
+    ⚙️ متخصص در طراحی، اجرا و برنامه‌ریزی سیستم‌های برق صنعتی<br>
+    🔧 مسلط به طراحی تابلوهای برق، مدارهای فرمان و قدرت، و حفاظت الکتریکی<br>
+    📊 برنامه‌نویس PLC زیمنس و آشنا با HMI، SCADA و درایوهای صنعتی<br>
+    💬 آماده مشاوره و همکاری در پروژه‌های اتوماسیون صنعتی و برق کارخانجات<br>
+    📫 راه‌های ارتباطی: شبکه‌های اجتماعی بالا<br>
+    ⚡ هدف: ارتقاء بهره‌وری و ایمنی در سیستم‌های صنعتی با راه‌حل‌های نوین کنترلی
   </p>
 </div>
 
 <!-- خط جداکننده -->
 <hr>
 
-<!-- بخش مهارت‌های تخصصی -->
+<!-- بخش مهارت‌های تخصصی (PLC، برق صنعتی، برنامه‌نویسی + EPLAN) -->
 <h3 align="center">🛠️ مهارت‌ها و تکنولوژی‌ها</h3>
 
 <div align="center">
-  <!-- آیکون‌های تخصصی مهندسی برق (روش اول: از ریپازیتوری profile-technology-icons) -->
-  <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="50" alt="MATLAB" title="MATLAB"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192107860-9a5f9c9c-6a0c-47b7-b5c3-8c7b7c7b7c7b.png" width="50" alt="Simulink" title="Simulink"/>
-  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9b0a-f5b5b7b5b5b5.png" width="50" alt="Python" title="Python"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192106070-8a5b9c4f-9b9b-4b9b-9b9b-4b9b9b9b9b9b.png" width="50" alt="C++" title="C++"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50" alt="Arduino" title="Arduino"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5c4b-4d8b-4b4d-9b9b-3b3b3b3b3b3b.png" width="50" alt="Raspberry Pi" title="Raspberry Pi"/>
-  <img src="https://user-images.githubusercontent.com/25181517/186884150-4d5b6c6f-6b3c-4e3b-9b8c-2c9b6c9b6c9b.png" width="50" alt="PLC" title="PLC"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d44-5b2e4b4b4b4b.png" width="50" alt="AutoCAD" title="AutoCAD"/>
+  <!-- آیکون‌های تخصصی - PLC و برق صنعتی -->
+  <img src="https://user-images.githubusercontent.com/25181517/186884150-4d5b6c6f-6b3c-4e3b-9b8c-2c9b6c9b6c9b.png" width="60" alt="PLC" title="PLC"/>
+  <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-dd57-4c3c-9b9d-7d0b9e5b9b9b.png" width="60" alt="SCADA" title="SCADA"/>
+  <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4b9f-9d2c-9b9b9b9b9b9b.png" width="60" alt="HMI" title="HMI"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d44-5b2e4b4b4b4b.png" width="60" alt="AutoCAD" title="AutoCAD Electrical"/>
+  
+  <!-- آیکون‌های برنامه‌نویسی -->
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9b0a-f5b5b7b5b5b5.png" width="60" alt="Python" title="Python"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192106070-8a5b9c4f-9b9b-4b9b-9b9b-4b9b9b9b9b9b.png" width="60" alt="C++" title="C++"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="60" alt="Arduino" title="Arduino"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="60" alt="MATLAB" title="MATLAB"/>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- روش دوم: استفاده از نشان‌های (Badges) آماده -->
+  <!-- نشان‌های (Badges) آماده با رنگ‌بندی هماهنگ -->
   
+  ![PLC](https://img.shields.io/badge/PLC-Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)
+  ![SCADA](https://img.shields.io/badge/SCADA-WinCC-FF6C37?style=for-the-badge&logo=siemens&logoColor=white)
+  ![HMI](https://img.shields.io/badge/HMI-Industrial-FF6C37?style=for-the-badge&logo=siemens&logoColor=white)
+  ![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD_Electrical-red?style=for-the-badge&logo=autodesk&logoColor=white)
+  ![EPLAN](https://img.shields.io/badge/EPLAN-طراحی_سیستم‌های_برق-16213E?style=for-the-badge&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-  ![AutoCAD](https://img.shields.io/badge/AutoCAD-red?style=for-the-badge&logo=autodesk&logoColor=white)
-  ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=ni&logoColor=black)
-  ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+  ![Ladder Logic](https://img.shields.io/badge/Ladder_Logic-Programming-009999?style=for-the-badge&logo=siemens&logoColor=white)
+  ![Power Distribution](https://img.shields.io/badge/توزیع_قدرت-FFAA00?style=for-the-badge&logo=electric&logoColor=black)
+  ![Motor Control](https://img.shields.io/badge/کنترل_موتور-FF6C37?style=for-the-badge&logo=siemens&logoColor=white)
 </div>
 
 <!-- خط جداکننده -->
 <hr>
 
-<!-- بخش آمار گیت‌هاب -->
-<h3 align="center">📊 آمار گیت‌هاب من</h3>
+<!-- بخش دوره‌ها و گواهینامه‌ها -->
+<h3 align="center">📚 دوره‌ها و گواهینامه‌ها</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=اینجا-نام-کاربری-گیتهاب-خود-را-وارد-کنید&show_icons=true&theme=radical" alt="آمار گیت‌هاب" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=اینجا-نام-کاربری-گیتهاب-خود-را-وارد-کنید&layout=compact&theme=radical" alt="پراستفاده‌ترین زبان‌ها" height="150"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=اینجا-نام-کاربری-گیتهاب-خود-را-وارد-کنید&theme=radical" alt="آمار فعالیت روزانه" width="400"/>
-</div>
-
-<!-- خط جداکننده -->
-<hr>
-
-<!-- بخش پروژه‌های شاخص -->
-<h3 align="center">🚀 پروژه‌های شاخص</h3>
-
-<div align="center">
-  <a href="لینک-ریپازیتوری-پروژه-اول">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=اینجا-نام-کاربری-گیتهاب-خود-را-وارد-کنید&repo=نام-ریپازیتوری-پروژه-اول&theme=radical" alt="پروژه اول"/>
-  </a>
-  <a href="لینک-ریپازیتوری-پروژه-دوم">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=اینجا-نام-کاربری-گیتهاب-خود-را-وارد-کنید&repo=نام-ریپازیتوری-پروژه-دوم&theme=radical" alt="پروژه دوم"/>
-  </a>
+  <p>
+    🎓 دانشجوی مهندسی برق - دانشگاه مازندران<br>
+    📜 دوره طراحی تابلوهای برق صنعتی<br>
+    📜 دوره PLC S7-1200 و S7-1500 - زیمنس<br>
+    📜 دوره اتوماسیون صنعتی و کنترل فرآیند<br>
+    📜 دوره نقشه‌کشی با AutoCAD Electrical و EPLAN
+  </p>
 </div>
 
 <!-- خط جداکننده -->
 <hr>
-
-<!-- بخش حمایت و قدردانی -->
-<h3 align="center">☕ از کارهای من حمایت کنید</h3>
-
-<div align="center">
-  <a href="لینک-صفحه-حمایت-مثلا-کوفی">
-    <img src="https://img.shields.io/badge/حمایت-از_من-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="حمایت">
-  </a>
-</div>
-
-<br>
 
 <!-- پایان با یک نقل قول زیبا -->
 <div align="center">
@@ -125,5 +102,7 @@
 
 <div align="center">
   <p>⭐️ از اینکه به پروفایل من سر زدید، خوشحالم!</p>
+  <p>📢 کانال تلگرام من: <a href="https://t.me/ASnet01">@ASnet01</a></p>
+  <p>📧 ارتباط مستقیم: alireza.soleimani@gmail.com</p>
   <p>تاریخ آخرین به‌روزرسانی: بهمن ۱۴۰۴</p>
 </div>
