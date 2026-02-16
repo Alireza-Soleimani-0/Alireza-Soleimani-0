@@ -16,8 +16,8 @@
 | **Siemens PLC (S7-1200/1500)** | ![](https://geps.dev/progress/30) 30% |
 | **Ladder Logic / Structured Text** | ![](https://geps.dev/progress/60) 60% |
 | **AutoCAD Electrical** | ![](https://geps.dev/progress/80) 70% |
-| **EPLAN** | ![](https://geps.dev/progress/65) 65% |
-| **SCADA / HMI** | ![](https://geps.dev/progress/75) 75% |
+| **EPLAN** | ![](https://geps.dev/progress/80) 65% |
+| **SCADA / HMI** | ![](https://geps.dev/progress/80) 75% |
 | **Python / C++** | ![](https://geps.dev/progress/30) 30% |
 | **MATLAB** | ![](https://geps.dev/progress/60) 60% |
 
