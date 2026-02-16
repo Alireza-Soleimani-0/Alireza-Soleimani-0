@@ -18,10 +18,16 @@
 | **AutoCAD Electrical** | ![](https://geps.dev/progress/64?color=2E8B57) 64% |
 | **EPLAN** | ![](https://geps.dev/progress/56?color=0077B5) 56% |
 | **SCADA / HMI** | ![](https://geps.dev/progress/60?color=2E8B57) 60% |
-| **C** | ![](https://geps.dev/progress/52?color=0077B5) 52% |
+| **Python / C++** | ![](https://geps.dev/progress/52?color=0077B5) 52% |
 | **MATLAB** | ![](https://geps.dev/progress/48?color=0077B5) 48% |
 
 </div>
+
+> 🎨 **Color Guide:**
+> - 🟢 **Green:** 60%+ (Expert)
+> - 🔵 **Blue:** 40-60% (Intermediate)
+> - 🟠 **Orange:** 20-40% (Learning)
+> - 🟡 **Yellow:** Below 20% (Beginner)
 
 ---
 
@@ -31,7 +37,7 @@
 
 | **Automation Giants** | **Engineering Software** | **Programming** |
 |:---------------------:|:------------------------:|:---------------:|
-| [![Siemens](https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com) | [![AutoCAD](https://img.shields.io/badge/AutoCAD_Electrical-FF0000?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com) | [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) |
+| [![Siemens](https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com) | [![AutoCAD](https://img.shields.io/badge/AutoCAD_Electrical-FF0000?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com) | [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org) |
 | [![ABB](https://img.shields.io/badge/ABB-FF0000?style=for-the-badge&logo=abb&logoColor=white)](https://new.abb.com) | [![EPLAN](https://img.shields.io/badge/EPLAN-16213E?style=for-the-badge&logoColor=white)](https://www.eplanusa.com) | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) |
 | [![Schneider](https://img.shields.io/badge/Schneider_Electric-3DCD58?style=for-the-badge&logo=schneider-electric&logoColor=white)](https://www.se.com) | [![TIA Portal](https://img.shields.io/badge/TIA_Portal-009999?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/tia) | [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://mathworks.com) |
 | [![Rockwell](https://img.shields.io/badge/Rockwell_Automation-FF0000?style=for-the-badge&logo=rockwell-automation&logoColor=white)](https://www.rockwellautomation.com) | [![WinCC](https://img.shields.io/badge/WinCC-FF6C37?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/wincc) | [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://arduino.cc) |
@@ -40,18 +46,15 @@
 
 ---
 
-## 🔧 **Technical Skills (Electrical Software)**
+## 🔧 **Technical Skills**
 
 <div align="center">
 
-| **Software** | **Proficiency** |
-|:------------:|:---------------:|
-| **TIA Portal** | ![](https://geps.dev/progress/75?color=2E8B57) 75% |
-| **WinCC** | ![](https://geps.dev/progress/65?color=2E8B57) 65% |
-| **AutoCAD Electrical** | ![](https://geps.dev/progress/64?color=2E8B57) 64% |
-| **EPLAN** | ![](https://geps.dev/progress/56?color=0077B5) 56% |
-| **CODESYS** | ![](https://geps.dev/progress/45?color=0077B5) 45% |
-| **MATLAB/Simulink** | ![](https://geps.dev/progress/48?color=0077B5) 48% |
+| **I have experience with** | **I'm currently learning** | **In my toolkit** |
+|:--------------------------:|:---------------------------:|:-----------------:|
+| ![C++](https://skillicons.dev/icons?i=cpp) | ![Python](https://skillicons.dev/icons?i=python) | ![MATLAB](https://skillicons.dev/icons?i=matlab) |
+| ![Arduino](https://skillicons.dev/icons?i=arduino) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Git](https://skillicons.dev/icons?i=git) |
+| ![AutoCAD](https://skillicons.dev/icons?i=autocad) | ![EPLAN](https://skillicons.dev/icons?i=eplan) | ![SCADA](https://skillicons.dev/icons?i=scada) |
 
 </div>
 
